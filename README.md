@@ -1,2 +1,2 @@
 # Wordle
-Simple Wordle Clone in Python
+Simple Wordle Clone using Python and Pygame
